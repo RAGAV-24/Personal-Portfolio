@@ -13,7 +13,7 @@ const Contact = () => {
         initial={{y:-100,opacity:0}}
        transition={{duration:2}}
         className="text-center tracking-tighter">
-            <p className="my-4">Adress : {CONTACT.address}</p>
+            <p className="my-4">Address : {CONTACT.address}</p>
             <p className="my-4">Phone Number : {CONTACT.phoneNo}</p>
             <p className="my-4">Email : {CONTACT.email}</p>
         </motion.div>
