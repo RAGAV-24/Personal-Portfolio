@@ -8,7 +8,7 @@ export const EXPERIENCES = [
   {
     year: "Jul 2024 - Present",
     role: "Full Stack Developer Intern",
-    company: "Google Inc.",
+    company: "Shine Logics.",
     description: `Developed responsive websites using React.js and integrated Groqs APIs to efficiently display and manage data.`,
     technologies: ["Javascript", "React.js", "mongoDB"],
   },
