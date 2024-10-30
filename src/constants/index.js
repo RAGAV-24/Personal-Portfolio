@@ -27,7 +27,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: [ "React", "Node.js", "MongoDB"],
   },
   
   {
@@ -35,14 +35,14 @@ export const PROJECTS = [
     image: project3,
     description:
       "A OD claimming and managing website for real time OD monitoring .",
-    technologies: [ "React Vite", "TailWind CSS","MongoDB"],
+    technologies: [ "React Vite", "TailWind CSS","MongoDB","Node.js"],
   },
   {
     title: "Resume Content Parser",
     image: project4,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS","MongoDB"],
+    technologies: ["React","MongoDB","Node.js"],
   },
 ];
 
