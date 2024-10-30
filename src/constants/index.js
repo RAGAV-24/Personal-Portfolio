@@ -31,11 +31,11 @@ export const PROJECTS = [
   },
   
   {
-    title: "Portfolio Website",
+    title: "OD Claimming Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A OD claimming and managing website for real time OD monitoring .",
+    technologies: [ "React Vite", "TailWind CSS","MongoDB"],
   },
   {
     title: "Resume Content Parser",
